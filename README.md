@@ -1,4 +1,4 @@
 RecursiveFunctions
 ==================
 
-Simple programs trued out for practicing recursion
+Simple programs tried out for practicing recursion
